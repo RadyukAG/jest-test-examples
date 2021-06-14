@@ -1,1 +1,1 @@
-# jest-test-examples
+# Some testing examples using jest library
